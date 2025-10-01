@@ -50,15 +50,6 @@ It integrates **Wavelet ConvNet (Deep Learning)** for ultrasound scan analysis w
 - Achieved **99.7% accuracy** in PCOS prediction using deep learning.  
 - Improved accessibility of women’s healthcare with a scalable and secure system.  
 
-## 📂 Project Structure
-PCOS-Prediction-Management-System/
-├── backend/ # Django backend (Python + APIs)
-├── frontend/ # Flutter mobile app
-├── dataset/ # PCOS dataset (not uploaded here)
-├── reports/ # Documentation and screenshots
-├── requirements.txt # Python dependencies
-└── README.md
-
 Developed by Deepak V
 
 ---
